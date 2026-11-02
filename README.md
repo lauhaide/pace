@@ -26,7 +26,7 @@ __Retrieval Index Building__ We follow instructions and scripts from [TIRESRAGâ€
 bash build_index.sh
 ```
 
-Under [the data folder](codebase/data/) you will find the evaluation sets as well as the training data with its off-line annotations (i.e., silver passages and state 0 potential's scores). The scripts for the silver passages set can be found [here](codebase/retrieval/).
+Under [the data folder](codebase/data/) you will find the evaluation sets as well as the training data. The scripts for the off-line annotations (i.e., silver passages and state 0 potential's scores) can be found [here](codebase/retrieval/).
 
 ## Retrieval Serivice
 
